@@ -1,0 +1,38 @@
+uul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: seagreen;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 22px;
+  padding: 20px;
+}
+
+
+li a:hover {
+  background-color: black;
+}
+
+.active {
+  background-color: black;
+}
+
+h1
+{
+	color: black;
+	font-size: 50px;
+	font-family: serif;
+	font-style: normal;
+
+}
+
